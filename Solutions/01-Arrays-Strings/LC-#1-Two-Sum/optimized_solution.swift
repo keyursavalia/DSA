@@ -2,7 +2,7 @@ import Foundation
 
 /// LC #1 - Two Sum
 /// Optimized Approach - 02/28/2026
-/// Time: O(n) | Space: O(1)
+/// Time: O(n) | Space: O(n)
 
 class Solution {
     
