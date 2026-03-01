@@ -51,6 +51,7 @@ While many candidates use Python or C++, solving DSA in Swift demonstrates:
 | LC # | Problem | Pattern | Difficulty | Solution |
 |------|---------|---------|------------|----------|
 | 1 | Two Sum | HashMap | Easy | [Link](Solutions/01-Arrays-Strings/LC-%231-Two-Sum/README.md) |
+| 167 | Two Sum II - Input Array Is Sorted | Two Pointers | Easy | [Link](Solutions/01-Arrays-Strings/LC-%23167-Two-Sum-II/README.md) |
 
 ## Contact & Connect
 
