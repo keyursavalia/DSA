@@ -22,16 +22,20 @@ A structured preparation plan aimed at landing iOS engineering roles.
 ```
 .
 ├── README.md
-├── Solutions/                # Categorized solutions
-    ├── 01-Arrays-Strings/
-    ├── 02-TwoPointers/
-    ├── 03-SlidingWindow/
-    ├── 04-HashMaps/
-    ├── 05-LinkedLists/
-    ├── 06-Trees/
-    ├── 07-Graphs/
-    ├── 08-DynamicProgramming/
-    └── 09-Hard-Challenges/
+├── Solutions/                                  # Categorized solutions
+│   ├── 01-Arrays-Strings/
+│   │   └── LC-#1-Two-Sum/
+│   │       ├── README.md                       # Problem statement & approach
+│   │       ├── brute_force_solution.swift
+│   │       └── optimized_solution.swift
+│   ├── 02-TwoPointers/
+│   ├── 03-SlidingWindow/
+│   ├── 04-HashMaps/
+│   ├── 05-LinkedLists/
+│   ├── 06-Trees/
+│   ├── 07-Graphs/
+│   ├── 08-DynamicProgramming/
+│   └── 09-Hard-Challenges/
 ```
 
 ## Why Swift?
@@ -46,7 +50,7 @@ While many candidates use Python or C++, solving DSA in Swift demonstrates:
 
 | LC # | Problem | Pattern | Difficulty | Solution |
 |------|---------|---------|------------|----------|
-|  |  |  |  |  |
+| 1 | Two Sum | HashMap | Easy | [Link](Solutions/01-Arrays-Strings/LC-%231-Two-Sum/README.md) |
 
 ## Contact & Connect
 
