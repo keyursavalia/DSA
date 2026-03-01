@@ -52,7 +52,14 @@ Output: [0, 1]
 ### Brute Force
 - Nested loops: for each element, check all subsequent elements for a pair that sums to `target`.
 - **Time:** O(n²) | **Space:** O(1)
-- [brute_force_solution.swift](./brute_force_solution.swift)
+
+### Optimized (HashMap)
+- Single pass: for each `num`, check if `target - num` exists in a hash map. If yes, return both indices; else store `num` → index in the map.
+- **Time:** O(n) | **Space:** O(n)
 
 ---
 
+## Solutions
+
+- [brute_force_solution.swift](./brute_force_solution.swift)
+- [optimized_solution.swift](./optimized_solution.swift)
