@@ -51,9 +51,10 @@ While many candidates use Python or C++, solving DSA in Swift demonstrates:
 | LC # | Problem | Pattern | Difficulty | Solution |
 |------|---------|---------|------------|----------|
 | 1 | Two Sum | HashMap | Easy | [Link](Solutions/01-Arrays-Strings/LC-%231-Two-Sum/README.md) |
+| 11 | Container With Most Water | Two Pointers | Medium | [Link](Solutions/01-Arrays-Strings/LC-%2311-Container-With-Most-Water/README.md) |
 | 15 | 3 Sum | Two Pointers, Sorting | Medium | [Link](Solutions/01-Arrays-Strings/LC-%2315-3-Sum/README.md) |
 | 125 | Valid Palindrome | Two Pointers | Easy | [Link](Solutions/01-Arrays-Strings/LC-%23125-Valid-Palindrome/README.md) |
-| 167 | Two Sum II - Input Array Is Sorted | Two Pointers | Easy | [Link](Solutions/01-Arrays-Strings/LC-%23167-Two-Sum-II/README.md) |
+| 167 | Two Sum II - Input Array Is Sorted | Two Pointers | Medium | [Link](Solutions/01-Arrays-Strings/LC-%23167-Two-Sum-II/README.md) |
 | 485 | Max Consecutive Ones | Sliding Window / Counting | Easy | [Link](Solutions/01-Arrays-Strings/LC-%23485-Max-Consecutive-Ones/README.md) |
 
 ## Contact & Connect
