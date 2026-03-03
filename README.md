@@ -52,6 +52,7 @@ While many candidates use Python or C++, solving DSA in Swift demonstrates:
 |------|---------|---------|------------|----------|
 | 1 | Two Sum | HashMap | Easy | [Link](Solutions/01-Arrays-Strings/LC-%231-Two-Sum/README.md) |
 | 167 | Two Sum II - Input Array Is Sorted | Two Pointers | Easy | [Link](Solutions/01-Arrays-Strings/LC-%23167-Two-Sum-II/README.md) |
+| 125 | Valid Palindrome | Two Pointers | Easy | [Link](Solutions/01-Arrays-Strings/LC-%23125-Valid-Palindrome/README.md) |
 
 ## Contact & Connect
 
