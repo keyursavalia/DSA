@@ -55,6 +55,7 @@ While many candidates use Python or C++, solving DSA in Swift demonstrates:
 | 15 | 3 Sum | Two Pointers, Sorting | Medium | [Link](Solutions/01-Arrays-Strings/LC-%2315-3-Sum/README.md) |
 | 125 | Valid Palindrome | Two Pointers | Easy | [Link](Solutions/01-Arrays-Strings/LC-%23125-Valid-Palindrome/README.md) |
 | 167 | Two Sum II - Input Array Is Sorted | Two Pointers | Medium | [Link](Solutions/01-Arrays-Strings/LC-%23167-Two-Sum-II/README.md) |
+| 238 | Product of Array Except Self | Prefix / Suffix Products | Medium | [Link](Solutions/01-Arrays-Strings/LC-%23238-Product-Of-Array-Except-Self/README.md) |
 | 485 | Max Consecutive Ones | Sliding Window / Counting | Easy | [Link](Solutions/01-Arrays-Strings/LC-%23485-Max-Consecutive-Ones/README.md) |
 
 ## Contact & Connect
