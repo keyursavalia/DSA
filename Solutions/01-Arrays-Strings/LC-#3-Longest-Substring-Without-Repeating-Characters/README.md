@@ -65,6 +65,6 @@ Notice that the answer must be a substring, "pwke" is a subsequence and not a su
 
 ## Solutions
 
-- [sliding_window_last_seen_solution.swift](./sliding_window_last_seen_solution.swift)
+- [sliding_window_array_last_seen_solution.swift](./sliding_window_array_last_seen_solution.swift)
 - [sliding_window_hashmap_solution.swift](./sliding_window_hashmap_solution.swift)
 
