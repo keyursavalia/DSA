@@ -51,12 +51,16 @@ While many candidates use Python or C++, solving DSA in Swift demonstrates:
 | LC # | Problem | Pattern | Difficulty | Solution |
 |------|---------|---------|------------|----------|
 | 1 | Two Sum | HashMap | Easy | [Link](Solutions/01-Arrays-Strings/LC-%231-Two-Sum/README.md) |
+| 3 | Longest Substring Without Repeating Characters | Sliding Window / Last-Seen Index | Medium | [Link](Solutions/01-Arrays-Strings/LC-%233-Longest-Substring-Without-Repeating-Characters/README.md) |
 | 11 | Container With Most Water | Two Pointers | Medium | [Link](Solutions/01-Arrays-Strings/LC-%2311-Container-With-Most-Water/README.md) |
 | 15 | 3 Sum | Two Pointers, Sorting | Medium | [Link](Solutions/01-Arrays-Strings/LC-%2315-3-Sum/README.md) |
+| 20 | Valid Parentheses | Stack / Parentheses Matching | Easy | [Link](Solutions/01-Arrays-Strings/LC-%2320-Valid-Parentheses/README.md) |
 | 125 | Valid Palindrome | Two Pointers | Easy | [Link](Solutions/01-Arrays-Strings/LC-%23125-Valid-Palindrome/README.md) |
 | 167 | Two Sum II - Input Array Is Sorted | Two Pointers | Medium | [Link](Solutions/01-Arrays-Strings/LC-%23167-Two-Sum-II/README.md) |
+| 209 | Minimum Size Subarray Sum | Sliding Window (Variable Size) | Medium | [Link](Solutions/01-Arrays-Strings/LC-%23209-Minimum-Size-Subarray-Sum/README.md) |
 | 238 | Product of Array Except Self | Prefix / Suffix Products | Medium | [Link](Solutions/01-Arrays-Strings/LC-%23238-Product-Of-Array-Except-Self/README.md) |
 | 485 | Max Consecutive Ones | Sliding Window / Counting | Easy | [Link](Solutions/01-Arrays-Strings/LC-%23485-Max-Consecutive-Ones/README.md) |
+| 643 | Maximum Average Subarray I | Sliding Window (Fixed Size) | Easy | [Link](Solutions/01-Arrays-Strings/LC-%23643-Maximum-Average-Subarray-I/README.md) |
 
 ## Contact & Connect
 
