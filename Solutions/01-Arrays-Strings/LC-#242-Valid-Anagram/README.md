@@ -57,6 +57,10 @@ Output: false
 - Count characters in `s` (increment). Iterate over `t` and decrement counts. If any character is missing or count goes negative, return `false`.
 - **Time:** O(n) | **Space:** O(1) — or O(k) where k is the size of the character set (26 for lowercase English).
 
+### Approach 5: Sorted + Single Dict
+- Early exit if lengths differ. Sort both strings (for potential use), then use single-dict increment/decrement to verify anagram.
+- **Time:** O(n log n) from sort | **Space:** O(n)
+
 ---
 
 ## Solutions
@@ -65,3 +69,4 @@ Output: false
 - [helper_first_opt_solution.swift](./helper_first_opt_solution.swift)
 - [helper_refactored_solution.swift](./helper_refactored_solution.swift)
 - [single_dict_solution.swift](./single_dict_solution.swift)
+- [sorted_single_dict_solution.swift](./sorted_single_dict_solution.swift)
