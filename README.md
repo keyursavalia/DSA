@@ -55,10 +55,12 @@ While many candidates use Python or C++, solving DSA in Swift demonstrates:
 | 11 | Container With Most Water | Two Pointers | Medium | [Link](Solutions/01-Arrays-Strings/LC-%2311-Container-With-Most-Water/README.md) |
 | 15 | 3 Sum | Two Pointers, Sorting | Medium | [Link](Solutions/01-Arrays-Strings/LC-%2315-3-Sum/README.md) |
 | 20 | Valid Parentheses | Stack / Parentheses Matching | Easy | [Link](Solutions/01-Arrays-Strings/LC-%2320-Valid-Parentheses/README.md) |
+| 53 | Maximum Subarray | Kadane’s Algorithm / Dynamic Programming | Medium | [Link](Solutions/01-Arrays-Strings/LC-%2353-Maximum-Subarray/README.md) |
 | 125 | Valid Palindrome | Two Pointers | Easy | [Link](Solutions/01-Arrays-Strings/LC-%23125-Valid-Palindrome/README.md) |
 | 167 | Two Sum II - Input Array Is Sorted | Two Pointers | Medium | [Link](Solutions/01-Arrays-Strings/LC-%23167-Two-Sum-II/README.md) |
 | 209 | Minimum Size Subarray Sum | Sliding Window (Variable Size) | Medium | [Link](Solutions/01-Arrays-Strings/LC-%23209-Minimum-Size-Subarray-Sum/README.md) |
 | 238 | Product of Array Except Self | Prefix / Suffix Products | Medium | [Link](Solutions/01-Arrays-Strings/LC-%23238-Product-Of-Array-Except-Self/README.md) |
+| 242 | Valid Anagram | Hash Map / Character Count | Easy | [Link](Solutions/01-Arrays-Strings/LC-%23242-Valid-Anagram/README.md) |
 | 485 | Max Consecutive Ones | Sliding Window / Counting | Easy | [Link](Solutions/01-Arrays-Strings/LC-%23485-Max-Consecutive-Ones/README.md) |
 | 643 | Maximum Average Subarray I | Sliding Window (Fixed Size) | Easy | [Link](Solutions/01-Arrays-Strings/LC-%23643-Maximum-Average-Subarray-I/README.md) |
 
